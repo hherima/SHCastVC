@@ -1,0 +1,6 @@
+framework module SHCastTV {
+  umbrella header "SHCastTV.h"
+
+  export *
+  module * { export * }
+}
